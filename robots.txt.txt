@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /cgi-bin/
+
+Sitemap: https://mp23259.github.io/tesla-auta/sitemap.xml
